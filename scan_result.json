@@ -1,0 +1,14 @@
+{
+  "scan_path": "two_demo_project",
+  "file_count": 8,
+  "file_list": [
+    "two_demo_project\\file_traverser.py",
+    "two_demo_project\\main.py",
+    "two_demo_project\\__init__.py",
+    "two_demo_project\\utils\\checker.py",
+    "two_demo_project\\utils\\cleaner.py",
+    "two_demo_project\\utils\\file_scanner.py",
+    "two_demo_project\\utils\\text_processor.py",
+    "two_demo_project\\utils\\__init__.py"
+  ]
+}
